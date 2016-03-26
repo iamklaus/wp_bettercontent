@@ -1,0 +1,13 @@
+.bettercontent-notifyme-button {
+    color: #d12d73;
+}
+
+.bettercontent-notifyme-button:hover{
+    top:3px;
+    box-shadow: 0px 3px #d2234c;
+}
+
+.bettercontent-notifyme-button:active{
+    top:6px;
+    box-shadow: none;
+}
